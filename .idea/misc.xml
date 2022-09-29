@@ -4,10 +4,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Aula 3 Equipo 22/AndroidStudioProjects/Inglish-Adventure/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.121" />
-        <entry key="..\:/Users/Aula 3 Equipo 22/AndroidStudioProjects/Inglish-Adventure/app/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="..\:/Users/Aula 3 Equipo 22/AndroidStudioProjects/Inglish-Adventure/app/src/main/res/layout/activity_main2.xml" value="0.17028985507246377" />
-        <entry key="..\:/Users/Aula 3 Equipo 22/AndroidStudioProjects/Inglish-Adventure/app/src/main/res/layout/activity_main3.xml" value="0.1598731884057971" />
-        <entry key="..\:/Users/Aula 3 Equipo 22/AndroidStudioProjects/Inglish-Adventure/app/src/main/res/layout/content_main.xml" value="0.2171875" />
+        <entry key="..\:/Users/Aula 3 Equipo 22/AndroidStudioProjects/Inglish-Adventure/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1955" />
+        <entry key="..\:/Users/Aula 3 Equipo 22/AndroidStudioProjects/Inglish-Adventure/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/Aula 3 Equipo 22/AndroidStudioProjects/Inglish-Adventure/app/src/main/res/layout/activity_main2.xml" value="0.18" />
+        <entry key="..\:/Users/Aula 3 Equipo 22/AndroidStudioProjects/Inglish-Adventure/app/src/main/res/layout/activity_main3.xml" value="0.17144078666096624" />
+        <entry key="..\:/Users/Aula 3 Equipo 22/AndroidStudioProjects/Inglish-Adventure/app/src/main/res/layout/activity_main4.xml" value="0.20885416666666667" />
+        <entry key="..\:/Users/Aula 3 Equipo 22/AndroidStudioProjects/Inglish-Adventure/app/src/main/res/layout/content_main.xml" value="0.15" />
         <entry key="..\:/Users/Aula 3 Equipo 22/AndroidStudioProjects/Inglish-Adventure/app/src/main/res/layout/content_main2.xml" value="0.2171875" />
         <entry key="..\:/Users/Aula 3 Equipo 22/AndroidStudioProjects/Inglish-Adventure/app/src/main/res/layout/fragment_first.xml" value="0.33" />
         <entry key="..\:/Users/Aula 3 Equipo 22/AndroidStudioProjects/Inglish-Adventure/app/src/main/res/layout/fragment_first2.xml" value="0.2171875" />
