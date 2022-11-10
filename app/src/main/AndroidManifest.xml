@@ -17,20 +17,16 @@
             android:name=".MenuActivity"
             android:exported="false" />
         <activity
-            android:name=".MainActivity4"
+            android:name=".LoginActivity"
             android:exported="false" />
         <activity
-            android:name=".MainActivity3"
+            android:name=".NameActivity"
             android:exported="false"
             android:label="@string/title_activity_main3"
             android:theme="@style/Theme.InglishAdventure" />
+
         <activity
-            android:name=".MainActivity2"
-            android:exported="false"
-            android:label="@string/title_activity_main2"
-            android:theme="@style/Theme.InglishAdventure.NoActionBar" />
-        <activity
-            android:name=".MainActivity"
+            android:name=".InicioActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
