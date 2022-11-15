@@ -129,7 +129,7 @@
         android:id="@+id/button5"
         android:layout_width="185dp"
         android:layout_height="34dp"
-        android:background="#00000"
+        android:background="@color/black"
         android:text="¿Has olvidado tu contraseña?"
         android:textColor="#0404FC"
         android:textSize="8dp"
