@@ -6,7 +6,6 @@ import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.view.WindowCompat
 
-import androidx.navigation.ui.AppBarConfiguration
 
 import com.stasoft.inglishadventure.databinding.ActivityNameBinding
 
@@ -19,7 +18,7 @@ class NameActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
 
         binding = ActivityNameBinding.inflate(layoutInflater)
-        setContentView(R.layout.activity_menu)
+        setContentView(binding.root)
 
         binding.Buttoninicial.setOnClickListener() {
             val intent = Intent(this, MenuActivity::class.java)

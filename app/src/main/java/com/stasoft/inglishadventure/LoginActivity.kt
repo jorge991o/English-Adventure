@@ -16,7 +16,7 @@ class LoginActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
 
         binding = ActivityLoginBinding.inflate(layoutInflater)
-        setContentView(R.layout.activity_name)
+        setContentView(binding.root)
 
         binding.buttonSiguiente.setOnClickListener(){
             val intent = Intent(this, NameActivity ::class.java)
